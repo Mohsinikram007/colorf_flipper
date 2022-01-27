@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pushster&display=swap');
+
+body
+{
+    background-color: white;
+    color: rgb(3, 2, 7);
+}
+.main
+{
+    display: grid;
+    place-items: center;
+}
+main > .container {
+    padding: 60px 15px 0;
+  }
+h1{
+    text-align: center;
+    background-color: rgb(240, 248, 255);
+    font-family: 'Pushster';
+    padding: 20px ;
+    margin-bottom: 30px;
+}
+.driver
+{
+    background-color: rgb(63, 62, 62);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+   padding: 30px;
+     margin: 0px auto;
+     margin-top: 100px;
+     font-family: 'Pushster';
+    
+}
+
+button {
+    margin:0 auto !important ;
+    display:block !important;
+    
+}
